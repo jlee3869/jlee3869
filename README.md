@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... github is my main and only form of communication #github4life
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I have been missing the "," "<" key for over 3 years on my laptop and it drives me more insane each day
---> Thank you for listening to my TEDtalk
+> Thank you for listening to my TEDtalk
 --> Jon
